@@ -1,0 +1,10 @@
+on redirecting, shadow the box according to the url in products page
+filtering
+routing problem in products page
+loading screen on email
+query and filtering 
+other plans for categories and redirecting
+
+
+
+SEO and testing fetchMore button

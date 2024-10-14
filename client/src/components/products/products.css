@@ -1,0 +1,15 @@
+.no-scrollbar {
+    /* Hide scrollbar in Webkit-based browsers like Chrome, Safari, and newer versions of Edge */
+    -webkit-overflow-scrolling: touch;
+    overflow: -moz-scrollbars-none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+  }
+  
+  .no-scrollbar::-webkit-scrollbar {
+    display: none; /* Hide scrollbar in Webkit-based browsers */
+  }
+  
+  .no-scrollbar {
+    scrollbar-width: none; /* Hide scrollbar in Firefox */
+  }
+  
